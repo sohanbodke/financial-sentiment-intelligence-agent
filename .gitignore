@@ -1,0 +1,27 @@
+.env
+.envss
+test.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/# Environment variables
+.env
+test.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Data files
+data/raw/*
+data/processed/*
